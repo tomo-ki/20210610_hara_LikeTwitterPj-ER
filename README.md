@@ -1,1 +1,2 @@
-# 20210610_hara_LikeTwitter-ER
+# 20210610_hara_LikeTwitterPj-ER
+Twitter風SNSアプリケーションのER図
